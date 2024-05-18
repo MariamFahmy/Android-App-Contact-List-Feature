@@ -3,4 +3,4 @@
 - Applied encapsulation with information hiding by making all fields private and providing getters and setters.
 - Used the UUID Java class to give a unique id to each contact; this made it easy to implement the method int getIndex(Contact contact)
 
-![image](https://github.com/MariamFahmy/Android-App-Contact-List-Feature/assets/51763380/b4f805bc-a256-4f94-af55-38f1813b7c32)
+![Untitled](https://github.com/MariamFahmy/Android-App-Contact-List-Feature/assets/51763380/56396722-b805-4700-9337-8202bd7c0b11)
