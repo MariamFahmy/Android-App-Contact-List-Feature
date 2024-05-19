@@ -22,6 +22,7 @@ public class ContactList {
     public ContactList() {
         contacts = new ArrayList<Contact>();
     }
+    
     public void setContacts(ArrayList<Contact> contact_list) {
         this.contacts = contact_list;
     }
