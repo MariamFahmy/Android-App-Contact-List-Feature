@@ -1,4 +1,5 @@
 # Contact List Feature in Android App
+This is the final assignment for the [Object-Oriented Design course](https://www.coursera.org/account/accomplishments/verify/SPSLNAA8UBJ6). 
 **Demo:** https://www.youtube.com/watch?v=8Ho_6EUjul4
 - Fixed Gradle build issues
 - Created two classes, Contact and ContactList to implement a contact list feature in an Android app for sharing items with borrowers.
