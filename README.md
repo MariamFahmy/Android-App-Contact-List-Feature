@@ -8,8 +8,8 @@ This is the final assignment for the [Object-Oriented Design course](https://www
 - Used the UUID Java class to give a unique id to each contact; this made it easy to implement the method int getIndex(Contact contact)
 - Implemented methods to store and load the contact list using com.google.gson.Gson library that converts Java objects into JSON and back
 
-## Classes Implemented
-![Untitled](https://github.com/MariamFahmy/Android-App-Contact-List-Feature/assets/51763380/56396722-b805-4700-9337-8202bd7c0b11)
+## UML
+![image](https://github.com/MariamFahmy/Android-App-Contact-List-Feature/assets/51763380/1aa62809-9dde-4687-9854-a9d054f5fb64)
 
 ## User Stories Implemented
 ![image](https://github.com/MariamFahmy/Android-App-Contact-List-Feature/assets/51763380/8b9f5f2f-4034-454f-86bc-e1b122a9d5f6)
